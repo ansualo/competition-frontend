@@ -1,0 +1,7 @@
+.headerDesign{
+    font-size: 5em;
+    background: linear-gradient(90deg,#ff000f 0%, #0000ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text; /* For Safari/Chrome */
+    color: transparent;
+}
